@@ -1,1 +1,1 @@
-# trident-device-manager
+# Trident Device Manager
